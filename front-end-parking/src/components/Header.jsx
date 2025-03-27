@@ -37,6 +37,9 @@ function Header() {
                       />
                   </defs>
               </svg>
+              <button className="page-header__join-btn">
+                  <span className="page-header__join-btn-text">Войти</span>
+              </button>
           </div>
       </header>
     );
